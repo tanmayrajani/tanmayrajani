@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Tanmay's github stats](https://github-readme-stats.vercel.app/api?username=tanmayrajani)]()
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmayrajani" alt="tanmayrajani" /> </p>
