@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 [![Tanmay's github stats](https://github-readme-stats.vercel.app/api?username=tanmayrajani)]()
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmayrajani" alt="tanmayrajani" /> </p>
+
+<a href="https://stackoverflow.com/users/4315380/tanmay"><img src="https://stackoverflow.com/users/flair/4315380.png" width="208" height="58" alt="profile for tanmay at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for tanmay at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
